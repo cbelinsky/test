@@ -1,5 +1,5 @@
 ## test script
-## main 2
+## main 2.
 
 ## test script B1
 
